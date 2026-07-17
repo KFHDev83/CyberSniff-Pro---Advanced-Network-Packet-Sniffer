@@ -40,7 +40,7 @@ Understanding network traffic at the packet level is essential for:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cybersniff-pro.git
+git clone https://github.com/KFHDev83/CyberSniff-Pro---Advanced-Network-Packet-Sniffer.git
 
 # Navigate to project directory
 cd cybersniff-pro
